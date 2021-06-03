@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Pope's late mock-procession, on Qu. Elizabeths crownation day, revenged upon Mr. Remmingtons, nose Being a relation how a piece of it was bit off by J. C. a life-guard man.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28267</idno><idno type="EEBO-CITATION">99827314</idno>
+  <idno type="VID">207716</idno>
+  <idno type="EEBO-PROQUEST">2240862645</idno>
+  
+            <idno type="STC">Wing P2934A</idno>
+            <idno type="PROQUEST">99827314</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827314e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1937:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Pope's late mock-procession, on Qu. Elizabeths crownation day, revenged upon Mr. Remmingtons, nose Being a relation how a piece of it was bit off by J. C. a life-guard man.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London?,</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The events in question took place on "Sunday the 14th of this instant March 1679".</note>
+                  <note>Copy filmed cropped at head, slightly affecting title.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Mutilation --  Early works to 1800.</term>
+               <term type="topical_term">Revenge --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:207716:1"/>
+            <head>The POPE'S late Mock-Procession, on Qu. <hi>Elizabeths</hi> Crownation day, revenged upon Mr. <hi>Remmingtons,</hi> Nose.</head>
+            <argument>
+               <p>Being a Relation how a Piece of it was bit off by <hi>J.C.</hi> a Life-gard man.</p>
+            </argument>
+            <div type="background">
+               <p>'TIS an Old and (we find) true Proverb, <hi>Revenge is Sweet.</hi> Yet if we inquire into the Nature of the Persons to Whose Palate Revenge is so; we shall certainly find them to be the Heirs of Wrath, Sons of that Wicked One, on whom GOD himself hath said, He will be avenged (or revenged, for all the Blood she hath spilt, <hi>&amp;c.</hi> These impudent ones, who, tho' GOD hath said, <hi>Vengeance is mine, and I will re<g ref="char:EOLhyphen"/>pay it:</hi> yet these take the Power out of GODS hand, will not stay his Leisure, but will be their own Judges, and their Enemies Executioners.</p>
+               <p n="2">2. A Revengful Spirit savors of Hell, and those that are sway'd by it must Inn there.</p>
+               <p n="3">3. 'Tis an Infernal Disease, and never found, <hi>regnant,</hi> in those that are Citizens of the New <hi>Je<g ref="char:EOLhyphen"/>rusalem:</hi> No, such Souls are easily prevail'd with, the least shew of Compliance gains with them to their Detriment, so easy Natured are such.</p>
+               <p n="4">4. What are they, or to Whom do they belong? who burn Cities, (as <hi>London,</hi> Sept. 2. <hi>A.D.</hi> 1666. and <hi>Southwark, July</hi> 26. 1676. Let <hi>Vengeance</hi> fol<g ref="char:EOLhyphen"/>low every one of them, that had a hand in it, or but connived at, or consented to it, till hearty Repen<g ref="char:EOLhyphen"/>tance, or the extirpation of That Name or Family be blotted out from under Heaved.</p>
+               <p n="5">5. But, besides desolating Fires, <hi>&amp;c.</hi> there's de<g ref="char:EOLhyphen"/>sign'd the Subversion of Kingdoms and their Go<g ref="char:EOLhyphen"/>vernment, the Massacring of Man, Woman and Child (as hath been already sworn to the Secret Committee of the late Parliament, and in Courts of Judicature;) that will not comply with their foolish humane Devises, Idolatries, and Supersti<g ref="char:EOLhyphen"/>tions, for Authority thereof, not one word's in the BIBLE. <hi>For satisfaction herein, See The Chronolo<g ref="char:EOLhyphen"/>gy of</hi> Popish Errors, <hi>lately published,</hi> showing when and by whom brought in.</p>
+               <p n="6">6. Which Superstitions and Idolatries, have (by the Eminentest of the Sons of the Church of <hi>England</hi>) been sufficiently wrote against, tho' all, at this present, which hath been done seems no<g ref="char:EOLhyphen"/>thing, because such hellish and profound Policy is now used (tho' the Protestant sees and understands what they do) to reduce us to that which was our Fore-fathers burden, <hi>viz.</hi> POPERY, under which they sigh'd and groan'd. And what? are we now become to have a hankering after, or small likings of those Abominations? Therefore let neither Force nor Flattery prevail with you to close with it, let Persons and Families perish that attempt it.</p>
+            </div>
+            <div type="relation">
+               <p n="7">7. BUt to give a farther Account of their re<g ref="char:EOLhyphen"/>vengeful Spirit, Take this Relation of their Severity on the Body of Mr. <hi>Remmington,</hi> dwelling at the Golden <hi>Turn-stile,</hi> the Corner house of little <hi>More-fields,</hi> nigh <hi>More-gate:</hi> This being the House where some of the Persons atti<g ref="char:EOLhyphen"/>red themselves, on this 17th of <hi>Novemb.</hi> 1679. being the Commemoration of Queen <hi>Elizabeth</hi>'s Crownation day; when the Mock-Procession of the Pope was solemnized, his Cardinals, with the rest of his Crew, went through the City, he and his Trumperys were burnt at Temple Bar:</p>
+               <p n="8">8. <hi>This being the only Cause, as far as can be yet gathered of this mischievous Accident: But one story is good till anothers heard: And I should be very loth to make them or their Cause any blac<g ref="char:EOLhyphen"/>ker than indeed it is: No, it needs not, Poor</hi> En<g ref="char:EOLhyphen"/>gland <hi>has (witness the Plague in</hi> 1665. <hi>The Fire in</hi> 1666 <hi>&amp;c.</hi>) <hi>and will yet more smart for its Fond<g ref="char:EOLhyphen"/>ness and kindness to the Favorers and Friends of</hi> Romes Devices.</p>
+               <p n="9">9. That the Papists can indure no Affronts to their almighty Idol the Pope, their Mock-worship can indure no mocking, for thereupon (as his Family says) is the Quarrel, and upon that Account I acquaint you with it: for the person <hi>J.C.</hi> who did this Mischief, and Mr. <hi>Remmington,</hi> never saw each other before, therefore no old Grudg, but Revenge, brought to perfection thus:</p>
+               <p n="10">10. On Sunday the 14th of this Instant <hi>March</hi> 1679. A Purser of a Ship, an Acquaitance of Mr. <hi>Remmington</hi>'s, came with his Friend into the house being a publick one; Mr. <hi>Remmington</hi> ask'd the Purser to dine with him; he answered him, that if he dined him, he must dine his friend too: Mr. <hi>Remmington</hi> told him, They should both be wel<g ref="char:EOLhyphen"/>come to what he had: They sate down, and dined: After Dinner, as an acknowledgment of this Kind<g ref="char:EOLhyphen"/>ness, these strangers invited <hi>Remmington</hi> to ac<g ref="char:EOLhyphen"/>cept a Glass of Wine, after some denyals, he em<g ref="char:EOLhyphen"/>braced the offer, and they went to the Star-Tavern in <hi>Coleman-street;</hi> they, going into a Room where other Company were, and they drinking the same wine these call'd for, they joyn'd Companies: af<g ref="char:EOLhyphen"/>ter some time, this <hi>J.C.</hi> a Life-gard-man, quarrel<g ref="char:EOLhyphen"/>led with <hi>Remmington,</hi> and challenged him; he answered him, That he used not to fight every one that quarrelled with him, <hi>&amp;c.</hi> but <hi>Remmington</hi> asking the Reason of his Rudeness? <hi>J.C.</hi> bid him come to him and he would tell him in his Ear; <hi>Remmington</hi> did so, but <hi>J.C.</hi> pretending to whi<g ref="char:EOLhyphen"/>sper, got <hi>Remmington</hi>'s Nose in his Mouth, and bit off a piece of it, and then spat it under the Table: <hi>Remmington</hi> cryd Murder, and held him till he was almost strangled in his own Blood, <hi>Remmington</hi> letting go his hold, <hi>J.C.</hi> finding no opposition, and the passage clear, made his Escape: A Constable not being to be found, tho <hi>Remmington's</hi> friends sought one.</p>
+               <p>Now <hi>I.C.</hi> seeks composition with Mr. <hi>Remming<g ref="char:EOLhyphen"/>ton:</hi> yet Mris <hi>Remmington</hi> (as a loyal Wife) is resolved to be revenged upon <hi>J.C.</hi> for dismem<g ref="char:EOLhyphen"/>bring her Husband: and nothing less than his Life as the Law gives it, can satisfy her: she being resol<g ref="char:EOLhyphen"/>ved to make him an Example.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
